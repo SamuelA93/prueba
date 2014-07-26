@@ -9,7 +9,7 @@ public class main {
 		nombre = "Marcos";
 		nombre2="Gabriel";
 		nombre3="Pablo";
-		System.out.println(saludo+nombre3);
+		
 		System.out.println(saludo+nombre2);
 		System.out.println(saludo+nombre);
 	}
