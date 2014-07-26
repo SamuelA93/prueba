@@ -7,6 +7,10 @@ public class main {
 		String saludo, nombre;
 		saludo="Hola !!! ";
 		nombre = "Marcos";
+		
+		
+		
+		System.out.println(saludo+nombre);
 	}
 
 }
